@@ -1,0 +1,4 @@
+inherit_from: https://raw.githubusercontent.com/fmi/ruby-homework/master/.rubocop.yml
+
+AllCops:
+  DisabledByDefault: true
