@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
 
-gem 'rubocop'
+gem 'rubocop', '~> 0.46.0'
 gem 'rake'
 gem 'observr'
 gem 'rspec'

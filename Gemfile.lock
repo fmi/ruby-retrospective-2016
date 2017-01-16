@@ -39,7 +39,7 @@ DEPENDENCIES
   rainbow (= 2.1.0)
   rake
   rspec
-  rubocop
+  rubocop (~> 0.46.0)
 
 BUNDLED WITH
    1.13.7
